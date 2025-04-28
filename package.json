@@ -1,5 +1,5 @@
 {
-  "name": "otp-generator",
+  "name": "one-time-password-generator",
   "version": "1.0.0",
   "description": "A flexible OTP generator ",
   "main": "index.js",
